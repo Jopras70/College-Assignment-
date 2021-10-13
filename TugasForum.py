@@ -38,3 +38,5 @@ if a < b :
         print ("This proper function can't be reduce further")
     else : 
         print (f"This proper function can be reduce to: {x}/{y}")
+        
+        
