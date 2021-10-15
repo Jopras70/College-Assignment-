@@ -18,3 +18,4 @@ total = pack-discount
 
 print (f"Discount amount @", disc,"%: ${:.2f}".format(discount))
 print (f"Total amount: ${format('%.2f'%total)}")
+
